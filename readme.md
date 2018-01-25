@@ -15,6 +15,10 @@ Simply run “python3 generate_dataset_list.py && python3 h5py_dumper.py && pyth
 
 NOTE: Images for training & validation can be found here: [Daimler Pedestrian Classification Benchmark Dataset] (http://www.gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/Daimler_Mono_Ped__Class__Bench/daimler_mono_ped__class__bench.html)
 
+## Flow Diagram
+
+! [flow diagram] (others/flow_diagram.PNG)
+
 ## How to test
 Simply run “python3 model_tester.py” in same directory as testset.h5 (also generated using h5py)
 
